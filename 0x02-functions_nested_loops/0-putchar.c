@@ -1,8 +1,9 @@
 #include "main.h"
-void print_until_newline(char *s);
+void print_times_table(int n);
 int main(void)
 {
- putchar("_putchar");
- putchar("\n");
- return 0;
+ putchar("_putchar\n");
+}
+{
+ return (0);
 }
