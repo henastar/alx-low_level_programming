@@ -1,5 +1,5 @@
 #include<stido.h>
-main(void)
+main(main.h)
 {
  int ch[100]; 
  printf("_putchar\n")
