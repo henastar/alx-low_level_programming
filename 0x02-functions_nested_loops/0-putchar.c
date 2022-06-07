@@ -1,5 +1,5 @@
 #include<stdio.h>
-main(main.h)
+main((main.)h)
 {
  int ch[100]; 
  printf("_putchar\n")
