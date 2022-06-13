@@ -3,14 +3,13 @@
  * using two input parameters
  *
  * @a: input parameter 1
- * @b: input parameter 2
- * 
+ * @b: input parameter 2 
  * Return: Nothing
  */
 
 void swap_int(int *a, int *b)
 {
-  int temp;
+int temp;
 
 temp = *a;
 *a = *b;
